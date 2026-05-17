@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models (большие файлы)
+*.keras
+*.h5
+*.pb
+*.ckpt
+
+# Video output
+output_video/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Processed images (результаты обработки)
+output/
+*_processed_*.jpg
+*_processed_*.png
+
+# Datasets (большие папки)
+256_ObjectCategories/
+*.zip
+*.tar.gz
+
+# Logs
+*.log
