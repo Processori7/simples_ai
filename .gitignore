@@ -38,8 +38,9 @@ output_video/
 
 # Datasets (большие папки)
 256_ObjectCategories/
-*.zip
 *.tar.gz
 
 # Logs
 *.log
+
+./lab2/abear_bin_ffnn.keras
