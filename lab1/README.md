@@ -89,12 +89,6 @@ lab1/
 | ![5.jpg](images/5.jpg) | ![5_processed](output/5_processed_20260331_200741.jpg) |
 | ![6.jpg](images/6.jpg) | ![6_processed](output/6_processed_20260331_200742.jpg) |
 
-## Обработанное видео
-
-Результат обработки видео с детекцией объектов:
-
-![Обработанное видео](output_video/1_processed_20260331_200838.mp4)
-
 ## Зависимости
 
 ```bash

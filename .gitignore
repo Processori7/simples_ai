@@ -43,9 +43,9 @@ output_video/
 *.mkv
 
 # Processed images (результаты обработки)
-output/
-*_processed_*.jpg
-*_processed_*.png
+lab1/output/
+lab2/output/
+lab3/output/
 
 # Datasets (большие папки)
 256_ObjectCategories/

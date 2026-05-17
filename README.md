@@ -38,10 +38,6 @@
 | ![5.jpg](lab1/images/5.jpg) | ![5_processed](lab1/output/5_processed_20260331_200741.jpg) |
 | ![6.jpg](lab1/images/6.jpg) | ![6_processed](lab1/output/6_processed_20260331_200742.jpg) |
 
-**Обработанное видео:**
-
-![Обработанное видео](lab1/output_video/1_processed_20260331_200838.mp4)
-
 [Подробнее →](lab1/)
 
 ---
@@ -106,10 +102,6 @@ Processing of plant leaf images for disease detection and object detection in vi
 | ![4.jpg](lab1/images/4.jpg) | ![4_processed](lab1/output/4_processed_20260331_200740.jpg) |
 | ![5.jpg](lab1/images/5.jpg) | ![5_processed](lab1/output/5_processed_20260331_200741.jpg) |
 | ![6.jpg](lab1/images/6.jpg) | ![6_processed](lab1/output/6_processed_20260331_200742.jpg) |
-
-**Processed video:**
-
-![Processed video](lab1/output_video/1_processed_20260331_200838.mp4)
 
 [Read more →](lab1/)
 
