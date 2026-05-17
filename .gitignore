@@ -43,4 +43,4 @@ output_video/
 # Logs
 *.log
 
-./lab2/abear_bin_ffnn.keras
+./lab2/bear_bin_ffnn.keras
