@@ -29,12 +29,6 @@ desktop.ini
 # Jupyter
 .ipynb_checkpoints/
 
-# Models (большие файлы)
-*.keras
-*.h5
-*.pb
-*.ckpt
-
 # Video output
 output_video/
 *.mp4
